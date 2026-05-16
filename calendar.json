@@ -1,5 +1,11 @@
 {
-    "announcements": [],
-    "events": [],
-    "changelogs": []
+  "announcements": [
+    {
+      "title": "test announcement",
+      "description": "test description\n\n<h1>test header description </h1>\n\n<h2> test subheader description </h2>\n\n<h3>test subheader2 description </h3>\n\n<b>test bold description </b>",
+      "timestamp": 1778957413710
+    }
+  ],
+  "events": [],
+  "changelogs": []
 }
