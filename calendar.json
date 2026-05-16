@@ -1,10 +1,5 @@
 {
-    "announcements": [
-        {
-            "title": "Test Announcement",
-            "description": "Test Description"
-        }
-    ],
+    "announcements": [],
     "events": [],
     "changelogs": []
 }
