@@ -1,5 +1,11 @@
 {
-  "announcements": [],
+  "announcements": [
+    {
+      "title": "test announcement A",
+      "description": "i vibecoded this part\n\n<font size=\"|H1|\" weight=\"800\">adwwadaawfafawf</font>\n\n<b>wdawdawdad</b>",
+      "timestamp": 1779086741978
+    }
+  ],
   "events": [],
   "changelogs": []
 }
